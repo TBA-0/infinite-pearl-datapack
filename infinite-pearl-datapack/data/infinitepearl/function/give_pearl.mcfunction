@@ -1,0 +1,2 @@
+# Give the player an Infinite Ender Pearl
+give @p ender_pearl[custom_data={infinite_pearl:true},custom_name='{"color":"dark_purple","text":"Infinite Pearl"}',enchantment_glint_override=false,item_name='""'] 1
